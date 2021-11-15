@@ -1,6 +1,6 @@
 # housing_data_project
 
-**Authors**:
+**Authors**: Adonis McQueen, Colin Pelzer, Zach Hanly
 
 ## Overview
 ## Business and Data Understanding
