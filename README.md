@@ -3,8 +3,10 @@
 **Authors**: Adonis McQueen, Colin Pelzer, Zach Hanly
 
 ## Overview
+This project takes the data from (source) in order to predict home prices based upon various features. We use linear regression modeling with various features in order to predict these prices. 
 ## Business and Data Understanding
 ## Explain your stakeholder audience here
+The stakeholder for this project is a commercial real estate company looking to purchase homes in a given area. They are primarily interested in: what zipcodes have the lowest prices, predicted prices of homes in the area, and any relevant differences between the real prices and our model's predicted price.
 ## Modeling
 ## Regression Results
 ## Conclusion
