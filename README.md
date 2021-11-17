@@ -3,9 +3,10 @@
 **Authors**: Adonis McQueen, Colin Pelzer, Zach Hanly
 
 ## Overview
-This project takes the data from (source) in order to predict home prices based upon various features. We use linear regression modeling with various features in order to predict these prices. 
+This project takes the data for houses in King County Washington in order to predict home prices based upon various features. We use linear regression modeling on various features in order to predict these prices. 
+
 ## Business and Data Understanding
-Ding Dong Real Estate wants to purchase homes in the Seattle area. They have tasked us with determining  how much to spend on a home (on average) and areas to purchase homes in. 
+Ding Dong Real Estate wants to purchase homes in the Seattle area. They have tasked us with determining how much to spend on a home, on average, and areas to purchase homes in. 
 
 Our data set contains information of houses sold such as price, square footage, grade of the house and the locations in both cooridinates and zipcode. This is all thanks to King County's effort to make data more accessible. 
 From the King County site:
