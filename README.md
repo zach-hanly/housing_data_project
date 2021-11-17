@@ -8,7 +8,11 @@ This project takes the data from (source) in order to predict home prices based 
 ## Explain your stakeholder audience here
 The stakeholder for this project is a commercial real estate company looking to purchase homes in a given area. They are primarily interested in: what zipcodes have the lowest prices, predicted prices of homes in the area, and any relevant differences between the real prices and our model's predicted price.
 ## Modeling
+![Correlation Heatmap](images/corr_heatmap.png)
+
 ## Regression Results
+![Zipcode Map](images/map.png)
+
 ## Conclusion
 
 ## For More Information
