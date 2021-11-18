@@ -20,7 +20,7 @@ The stakeholder for this project is a commercial real estate company looking to 
 
 ## Modeling
 ### Correlation Heatmap
-<img src="images/corr_heatmap.png" width="1500" height="500" />
+<img src="images/corr_heatmap.png" width="1250" height="500" />
 
 ## Regression Results
 ### Price vs. Square Footage per Zip Code
