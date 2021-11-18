@@ -21,17 +21,22 @@ The stakeholder for this project is a commercial real estate company looking to 
 ![Correlation Heatmap](images/corr_heatmap.png)
 
 ## Regression Results
-# Zip Code's Mean Price Predicted with Mean Square Footage
+### Zip Code's Mean Price Predicted with Mean Square Footage
 ![Zipcode Regression plot](images/zipcode_regression.png)
 
-# Residual Error for Price per Zip Code
+### Residual Error for Price per Zip Code
 ![Zipcode Map](images/map.png)
 
 ## Conclusion
+*
+
+*
+
+* Strongest feature, square footage,  performs best in suburbs outside of Seattle.
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./master_notebook.ipynb) or our [presentation](./presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./main_notebook.ipynb) or our [presentation](./presentation.pdf).
 
 ## Repository Structure
 
