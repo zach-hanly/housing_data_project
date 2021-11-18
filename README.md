@@ -19,7 +19,8 @@ For more King County data go to [King County Public Data](https://kingcounty.gov
 The stakeholder for this project is a commercial real estate company looking to purchase homes in a given area. They are primarily interested in: what zipcodes have the lowest prices, predicted prices of homes in the area, and any relevant differences between the real prices and our model's predicted price.
 
 ## Modeling
-![Correlation Heatmap](images/corr_heatmap.png)
+### Correlation Heatmap
+<img src="images/corr_heatmap.png" width="1500" height="1000" />
 
 ## Regression Results
 ### Price vs. Square Footage per Zip Code
