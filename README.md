@@ -22,10 +22,12 @@ The stakeholder for this project is a commercial real estate company looking to 
 ![Correlation Heatmap](images/corr_heatmap.png)
 
 ## Regression Results
-### Zip Code's Mean Price Predicted with Mean Square Footage
+### Price vs. Square Footage per Zip Code
 ![Zipcode Regression plot](images/zipcode_regression.png)
 
-### Residual Error for Price per Zip Code
+<p align="center">
+    ### Residual Error for Price vs. Square Footage per Zip Code
+</p>
 ![Zipcode Map](images/map.png)
 
 ## Conclusion
