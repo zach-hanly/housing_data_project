@@ -47,9 +47,9 @@ Please review our full analysis in [our Jupyter Notebook](./main_notebook.ipynb)
 ├── README.md                 <- The top-level README for reviewers of this project
 ├── master_notebook.ipynb     <- Narrative documentation of analysis in Jupyter notebook
 ├── presentation.pdf          <- PDF version of project 
-├── data                      <- Both sourced externally and generated from code
-└── images                    <- Both sourced externally and generated from code
+├── data                      <- Sourced externally
+└── images                    <- Generated from code
 ├── adonis                    <- conntributions from adonis
 └── colin                     <- conntributions from colin
 ├── zach                      <- conntributions from zach
-```# housing_data_project
+```# Predicting King County Housing Prices
