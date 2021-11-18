@@ -25,9 +25,8 @@ The stakeholder for this project is a commercial real estate company looking to 
 ### Price vs. Square Footage per Zip Code
 ![Zipcode Regression plot](images/zipcode_regression.png)
 
-<p align="center">
-    ### Residual Error for Price vs. Square Footage per Zip Code
-</p>
+ <h3 align="center">Residual Error for Price vs. Square Footage per Zip Code</h1>
+
 ![Zipcode Map](images/map.png)
 
 ## Conclusion
