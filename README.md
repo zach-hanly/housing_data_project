@@ -30,9 +30,9 @@ The stakeholder for this project is a commercial real estate company looking to 
 ![Zipcode Map](images/map.png)
 
 ## Conclusion
-*
+* The predictive linear model isn’t the best model
 
-*
+* We inferred which features of  the house control the price
 
 * Strongest feature, square footage,  performs best in suburbs outside of Seattle.
 
@@ -44,7 +44,7 @@ Please review our full analysis in [our Jupyter Notebook](./main_notebook.ipynb)
 
 ```
 ├── README.md                 <- The top-level README for reviewers of this project
-├── master_notebook.ipynb     <- Narrative documentation of analysis in Jupyter notebook
+├── main_notebook.ipynb       <- Narrative documentation of analysis in Jupyter notebook
 ├── presentation.pdf          <- PDF version of project 
 ├── data                      <- Sourced externally
 └── images                    <- Generated from code
