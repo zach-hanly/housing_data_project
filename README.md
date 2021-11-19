@@ -26,6 +26,11 @@ The stakeholder for this project is a commercial real estate company looking to 
 ![ModelProgression plot](images/ModelProgression.png)
 Whereas it does not show the exact process, the graph does show that we did do things such as data cleaning, and testing data with different data to get a better model overall. We were able to change from less than 10% of the variance explained, to over 65% explained. It is not a perfect model by any means, but it is a step in the right direction.
 
+### Prediction Models
+![scat pred plot](images/scatter_matrix_AM.png)
+analysis
+![pred model](images/pred_model_AM.png)
+analysis
 ## Regression Results
 ### Price vs. Square Footage per Zip Code
 ![Zipcode Regression plot](images/zipcode_regression.png)
