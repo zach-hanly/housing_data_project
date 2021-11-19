@@ -39,7 +39,7 @@ This graph displays the prediction price vs the actual price after elminating ou
 ![Zipcode Map](images/map.png)
 
 ## Conclusion
-* The predictive linear model isn’t the ideal model to predict price. This indicates that another model might be better to describe the features between
+* The predictive linear model isn’t the ideal model to predict price. This indicates that another model might be better to describe how the features in the dataset affect prices.
 
 * We inferred which features of  the house control the price
 
