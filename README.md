@@ -28,9 +28,9 @@ Whereas it does not show the exact process, the graph does show that we did do t
 
 ### Prediction Models
 ![scat pred plot](images/scatter_matrix_AM.png)
-analysis
+This scatter matrix gives us a visualization of features that are collinear. We will use this as a basis to select features for our predictive model.
 ![pred model](images/pred_model_AM.png)
-analysis
+This graph displays the prediction price vs the actual price after elminating outliers in the data. While linearity is consistent before $1,000,000, the data quickly spreads thereafter. This indicates that our model would not be ideal at predicting prices after the $ 1 million point. R2 = 0.692, which lets us know that 69% of price variance can be explained by this model, with a RMSE = $195547.46.
 ## Regression Results
 ### Price vs. Square Footage per Zip Code
 ![Zipcode Regression plot](images/zipcode_regression.png)
@@ -39,7 +39,7 @@ analysis
 ![Zipcode Map](images/map.png)
 
 ## Conclusion
-* The predictive linear model isn’t the best model
+* The predictive linear model isn’t the ideal model to predict price. This indicates that another model might be better to describe the features between
 
 * We inferred which features of  the house control the price
 
