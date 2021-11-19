@@ -47,8 +47,8 @@ Please review our full analysis in [our Jupyter Notebook](./main_notebook.ipynb)
 ├── main_notebook.ipynb       <- Narrative documentation of analysis in Jupyter notebook
 ├── presentation.pdf          <- PDF version of project 
 ├── data                      <- Sourced externally
-└── images                    <- Generated from code
+├── images                    <- Generated from code
 ├── adonis                    <- conntributions from adonis
-└── colin                     <- conntributions from colin
+├── colin                     <- conntributions from colin
 ├── zach                      <- conntributions from zach
 ```# Predicting King County Housing Prices
